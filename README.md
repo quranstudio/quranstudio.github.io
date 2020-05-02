@@ -12,7 +12,7 @@ QuranStudio ideas
 -------------------
 1. Atlas of Quran (AoQ) - an interactive map of people and places. A knowledge representation of quranic anthropology & geography on a visuo-spacial medium. 
 
-2. Quranic Data Science 
+2. Quranic Data Science   
 2.1 Quranic topics maps - interactive topic/concept maps of Quranic topics.  
 2.2 Quranic data visualization - interactive vizualizations using d3.js; R; 
 
